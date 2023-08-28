@@ -10,9 +10,11 @@ public class hello {
 		 * 
 		 * 
 		 */
-		System.out.println("Name: Collin!");	
+		System.out.println("Name: Collin Siracuse!");	
 		System.out.println("Major: Computer Science");
 		
+		System.out.println("Name: Aditya Tadepalli!");	
+		System.out.println("Major: Computer Science");
 		
 	}
 }
